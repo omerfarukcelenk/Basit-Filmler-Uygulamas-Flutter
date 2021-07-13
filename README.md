@@ -1,17 +1,11 @@
-# filmler_uygulamasi
+# Basit Filmler Uygulaması | Flutter 
 
-A new Flutter project.
+![Film_uygulamasi_1](https://user-images.githubusercontent.com/71720425/125480460-bb1742bd-6bc7-454d-9d0d-fb1ac07baae8.png)
 
-## Getting Started
+<hr>
 
-This project is a starting point for a Flutter application.
+![Film_uygulamasi_2](https://user-images.githubusercontent.com/71720425/125480503-bbe388c3-a4f2-481c-b83c-e470e37402d0.png)
 
-A few resources to get you started if this is your first Flutter project:
+<hr>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Basit-Filmler-Uygulamas-Flutter
+ ![Film_uygulamasi_3](https://user-images.githubusercontent.com/71720425/125480529-c7ad66f1-928f-42c4-88b0-18a022ed60f0.png)
